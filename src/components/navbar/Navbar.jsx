@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+// import { Link } from 'react-router-dom';
 import { RiMenu3Line, RiCloseLine } from 'react-icons/ri';
 // import logo from '../../assets/v.png';
 import './navbar.css';
@@ -19,6 +20,7 @@ const Navbar = () => {
           <p><a href="#possibility">My Work</a></p>
           <p><a href="#features">Designs</a></p>
           <p><a href="#blog">Projects</a></p>
+          {/* <Link to="/gallery">Gallery</Link> */}
         </div>
       </div>
       <div className="gpt3__navbar-sign">
@@ -37,6 +39,7 @@ const Navbar = () => {
             <p><a href="#possibility">My Work</a></p>
             <p><a href="#features">Designs</a></p>
             <p><a href="#blog">Projects</a></p>
+            {/* <li><Link to="/gallery">Gallery</Link></li> */}
           </div>
           <div className="gpt3__navbar-menu_container-links-sign">
             {/* <p>Sign in</p> */}
