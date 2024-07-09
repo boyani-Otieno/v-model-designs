@@ -8,7 +8,7 @@ const Header = () => (
     <div className="gpt3__header-content">
       <h1 className="gradient__text"> Designing Dimensions, Creating Realities with V Designs
       </h1>
-      <p>At V Designs,them to life. My design solutions are crafted to infuse joy and excitement into every project. Join me in celebrating the art of design, where every detail contributes to creating extraordinary experiences.</p>
+      <p>We bring beautiful designs to life. My design solutions are crafted to infuse joy and excitement into every project. Join me in celebrating the art of design, where every detail contributes to creating extraordinary experiences.</p>
 
       <div className="gpt3__header-content__input">
         <input type="email" placeholder="Your Email Address" />

@@ -5,16 +5,16 @@ import './whatGPT3.css';
 const WhatGPT3 = () => (
   <div className="gpt3__whatgpt3 section__margin" id="wgpt3">
     <div className="gpt3__whatgpt3-feature">
-      <Feature title="What is GPT-3" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought. His defective nor convinced residence own. Connection has put impossible own apartments boisterous. At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by." />
+      <Feature title="What we are all about" text="As a model designer, my focus is on creating innovative and aesthetically pleasing designs that combine functionality with elegance. I aim to meet the unique needs of our clients through custom solutions, leveraging advanced design technologies and a deep understanding of market trends." />
     </div>
     <div className="gpt3__whatgpt3-heading">
-      <h1 className="gradient__text">The possibilities are beyond your imagination</h1>
-      <p>Explore the Library</p>
+      <h1 className="gradient__text">Explore limitless possibilities with our visionary designs.</h1>
+      <p>Explore for more...</p>
     </div>
     <div className="gpt3__whatgpt3-container">
-      <Feature title="Chatbots" text="We so opinion friends me message as delight. Whole front do of plate heard oh ought." />
-      <Feature title="Knowledgebase" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
-      <Feature title="Education" text="At jointure ladyship an insisted so humanity he. Friendly bachelor entrance to on by. As put impossible own apartments b" />
+      <Feature title="Apartments" text="Our mission is to revolutionize apartment living through cutting-edge design solutions." />
+      <Feature title="Residential Buildings" text="Crafting stylish and functional living spaces and transforming spaces into exceptional living environments." />
+      <Feature title="Religious Buildings" text="Honoring faith through inspired architectural design. Crafting sacred spaces that inspire reverence and community." />
     </div>
   </div>
 );
